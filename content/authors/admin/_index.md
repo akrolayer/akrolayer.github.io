@@ -124,17 +124,7 @@ work:
         - PowerApps,PowerAutimate
         - C#
 
-  - position: Backend Engineer
-    company_name: ケーブルテレビ機器開発企業
-    company_url: ''
-    company_logo: ''
-    date_start: 2018-04-01
-    date_end: 2021-01-01
-    summary: |
-        - C#.NET
-        - git
-        - Manufacturing Optimization
-        
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
