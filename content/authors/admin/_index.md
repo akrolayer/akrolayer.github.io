@@ -109,20 +109,6 @@ work:
         - Microsoft SQL Server
         - C#
 
-  - position: Backend Engineer
-    company_name: 某都内SES企業
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-04-01
-    date_end: 2024-01-31
-    summary: |
-        - VB.NET
-        - git
-        - HTML,CSS
-        - JavaScript
-        - Microsoft SQL Server
-        - PowerApps,PowerAutimate
-        - C#
 
 
 # Skills
