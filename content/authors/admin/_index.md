@@ -89,7 +89,7 @@ work:
     company_logo: ''
     date_start: 2025-06-01
     date_end: ''
-    summary: |
+    summary: |2-
       空調設備の修理案件を一元管理する社内システムの改修に従事している。
       主な業務スキル:
       - C#
