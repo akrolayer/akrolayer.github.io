@@ -35,7 +35,7 @@ profiles:
 #    label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/akrolayer
-  - icon: custom/speaker-deck-brands-solid
+  - icon: "custom/speaker-deck-brands-solid"
     url: https://www.speakerdeck.com/akrolayer
   - icon: brands/github
     url: https://github.com/akrolayer
