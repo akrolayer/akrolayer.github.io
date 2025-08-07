@@ -3,11 +3,11 @@
 title: gomana2
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: gomana2
-last_name: 
+first_name: gomana
+last_name: 2
 
 # Status emoji
 status:
