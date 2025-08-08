@@ -1,5 +1,5 @@
 ---
-title: 'AutoHotKeyとKarabiner-Elementsではじめるキーバインド設定'
+title: '趣味の楽しみ方と仕事'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,11 +12,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2019-12-01T00:00:00Z'
+date: '2024-11-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-12-01T00:00:00Z'
+publishDate: '2024-11-11T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
