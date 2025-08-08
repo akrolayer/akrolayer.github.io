@@ -1,5 +1,5 @@
 ---
-title: 'OneStop生き方'
+title: '100コミュニケーション'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,11 +12,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2020-02-01T00:00:00Z'
+date: '2021-12-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-02-01T00:00:00Z'
+publishDate: '2021-12-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
