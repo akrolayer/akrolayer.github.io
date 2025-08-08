@@ -1,12 +1,15 @@
 ---
-title: "ゲームセンターを楽しむ技術"
+title: "AutoHotKey・Karabiner-Elementsではじめるキーバインド設定"
 authors:
 - admin
-date: "2019-08-01T00:00:00Z"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2019-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-08-01T00:00:00Z"
+publishDate: "2019-12-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,24 +17,22 @@ publishDate: "2019-08-01T00:00:00Z"
 publication_types: ["self-published-book"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ゲームセンターを楽しむ技術"
+publication: ""
 publication_short: ""
 
-abstract: 私はゲームセンターが好きなのですが、ゲームセンターは減少傾向にあります。ゲームセンターに行く人が減っているのは、ゲームセンターを楽しむ技術が知られていないからだと考えます。ゲームセンターを楽しむ技術をいろいろな人に知ってもらいたいと考え、この本を執筆いたしました。合同誌ということで、著者が複数います。それぞれの著者が書いた内容をまとめているため、多くの技術が載っているのではないかと考えています（著者が楽しんでいるゲームの話から、ゲームセンターの話、はたまた自分でゲームの基盤を蒐集する話まで！）
+abstract: キーボードを使っていて、こんなことを思いませんか？ホームポジションから手が離れて面倒・ショートカットキーがもっと押しやすいキーに欲しい・普段も慣れたエディタのショートカットキーを使いたい......。それらを解決していく本です。この本を読めば、自分好みのキーバインド設定が作れるようになります。Windows向けではAutoHotKey、Mac向けではKarabiner-Elementsを紹介しています。
 
 # Summary. An optional shortened abstract.
-summary: ゲームセンターを楽しむ技術をいろいろな人に知ってもらいたいと考えて書いた本。合同誌形式で執筆し、主宰しました。
+summary: キーバインド設定でキーボードの不満を解決する本。Windows向けではAutoHotKey、Mac向けではKarabiner-Elementsを紹介しています。
 
 tags:
+- キーボード
 - self-published-book
-- ゲームセンター
-- 寄稿
+featured: false
 
-featured: true
-
-links:
-- name:
-  url: 
+# links:
+# - name: ""
+#   url: ""
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -53,8 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -63,4 +63,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-https://gomana2.booth.pm/items/1542903
+
+https://gomana2.booth.pm/items/1721470
