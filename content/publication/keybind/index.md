@@ -12,11 +12,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-11-11T00:00:00Z'
+date: '2019-12-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-11-11T00:00:00Z'
+publishDate: '2019-12-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,10 +27,10 @@ publication_types: ['self-published-book']
 publication: 趣味の楽しみ方と仕事
 publication_short: 
 
-abstract: 皆さんは、趣味はお持ちでしょうか。趣味というと、頻度が高いものを想像してしまい「趣味はないですね」と答えてしまう方もいるのではないでしょうか。現在は趣味に対してハードルを高く設定している人が多く見受けられます。ですが、趣味にはそこまでハードルは高く感じなくてよいと考えます。この本では、趣味とは何か、なぜ必要なのか・趣味を楽しむために・趣味とお金について解説します。趣味を持つこと、趣味と仕事の関係について、新たな視点を示すことができれば幸いです。
+abstract: キーボードを使っていて、こんなことを思いませんか？ホームポジションから手が離れて面倒・ショートカットキーがもっと押しやすいキーに欲しい・普段も慣れたエディタのショートカットキーを使いたい......。それらを解決していく本です。この本を読めば、自分好みのキーバインド設定が作れるようになります。Windows向けではAutoHotKey、Mac向けではKarabiner-Elementsを紹介しています。
 
 # Summary. An optional shortened abstract.
-summary: 趣味の楽しみ方について書いた本です
+summary: キーバインド設定でキーボードの不満を解決する本。Windows向けではAutoHotKey、Mac向けではKarabiner-Elementsを紹介しています。
 
 tags:
   - self-published-book
