@@ -1,9 +1,11 @@
 ---
-title: booth
+title: Pandas
 date: 2023-10-26
-external_link: https://gomana2.booth.pm/
+external_link: https://github.com/pandas-dev/pandas
 tags:
-  - self-published-book
+  - Hugo
+  - Wowchemy
+  - Markdown
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
