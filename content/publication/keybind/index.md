@@ -1,5 +1,5 @@
 ---
-title: '趣味の楽しみ方と仕事'
+title: 'AutohotkeyとKarabiner-Elementsではじめるキーバインド設定'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
