@@ -24,7 +24,7 @@ publishDate: '2021-12-01T00:00:00Z'
 publication_types: ['self-published-book']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: 100コミュニケーション
 publication_short: 
 
 abstract: コロナ時代のコミュニケーションに関するトピックスを100本(目標)集めます。仕事におけるコミュニケーション、コミュニティや勉強会でのコミュニケーション、あるいは、家族や友人間、PodcastやYoutube配信など一方向のコミュニケーションも対象予定です。事実の共有と雰囲気の共有についての章を寄稿しました。
