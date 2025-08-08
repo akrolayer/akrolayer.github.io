@@ -17,7 +17,7 @@ publishDate: "2019-12-01T00:00:00Z"
 publication_types: ["self-published-book"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "AutoHotKey・Karabiner-Elementsではじめるキーバインド設定"
 publication_short: ""
 
 abstract: キーボードを使っていて、こんなことを思いませんか？ホームポジションから手が離れて面倒・ショートカットキーがもっと押しやすいキーに欲しい・普段も慣れたエディタのショートカットキーを使いたい......。それらを解決していく本です。この本を読めば、自分好みのキーバインド設定が作れるようになります。Windows向けではAutoHotKey、Mac向けではKarabiner-Elementsを紹介しています。
