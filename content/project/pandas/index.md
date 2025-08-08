@@ -3,11 +3,9 @@ title: booth
 date: 2023-10-26
 external_link: https://gomana2.booth.pm
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - self-published-book
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+個人で頒布している本たち
 
 <!--more-->

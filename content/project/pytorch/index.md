@@ -1,13 +1,11 @@
 ---
-title: PyTorch
+title: note
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://note.com/gomana2
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - 記事
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+趣味であるDDRの上達に関する記事や、普段考えていることを執筆。
 
 <!--more-->
