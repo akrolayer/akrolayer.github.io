@@ -6,6 +6,6 @@ tags:
   - self-published-book
 ---
 
-aaaaaaa
+登壇したスライド
 
 <!--more-->
