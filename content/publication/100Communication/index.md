@@ -1,5 +1,5 @@
 ---
-title: 'コミュニケーション one handred'
+title: 'コミュニケーション One Handred'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -24,13 +24,13 @@ publishDate: '2021-12-01T00:00:00Z'
 publication_types: ['self-published-book']
 
 # Publication name and optional abbreviated publication name.
-publication: 趣味の楽しみ方と仕事
+publication: 
 publication_short: 
 
-abstract: 知ってると人生少し楽できる知識・社会に出る前に知っておきたかったこと・あるいは、現世に転生するときのチート知識。お金、働き方、学歴、家族や人間関係、その他について、著者20人で贈るチート知識。250ページを超える1冊に網羅。人生の意味について、ニヒリズムの観点から考える章を寄稿しました。
+abstract: コロナ時代のコミュニケーションに関するトピックスを100本(目標)集めます。仕事におけるコミュニケーション、コミュニティや勉強会でのコミュニケーション、あるいは、家族や友人間、PodcastやYoutube配信など一方向のコミュニケーションも対象予定です。事実の共有と雰囲気の共有についての章を寄稿しました。
 
 # Summary. An optional shortened abstract.
-summary: 知ってると人生少し楽できる知識・社会に出る前に知っておきたかったこと・あるいは、現世に転生するときのチート知識。お金、働き方、学歴、家族や人間関係、その他について、著者20人で贈るチート知識。250ページを超える1冊に網羅。
+summary: コロナ時代のコミュニケーションに関するトピックスを100本(目標)集めます。仕事におけるコミュニケーション、コミュニティや勉強会でのコミュニケーション、あるいは、家族や友人間、PodcastやYoutube配信など一方向のコミュニケーションも対象(予定)です。
 
 tags:
   - self-published-book
