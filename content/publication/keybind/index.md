@@ -75,4 +75,4 @@ projects:
 slides: example
 ---
 
-https://techbookfest.org/product/nBK5KFuvD17fnA6UvpibEq?productVariantID=3VWZFAs6LP1svaVTw2QsNe
+https://gomana2.booth.pm/items/1721470

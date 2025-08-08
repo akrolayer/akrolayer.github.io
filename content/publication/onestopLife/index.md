@@ -77,4 +77,4 @@ projects:
 slides: example
 ---
 
-https://techbookfest.org/product/nBK5KFuvD17fnA6UvpibEq?productVariantID=3VWZFAs6LP1svaVTw2QsNe
+https://oyakata.booth.pm/items/1871341
