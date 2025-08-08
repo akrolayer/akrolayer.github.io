@@ -1,7 +1,7 @@
 ---
-title: SPEAKERDECK
+title: キーボード関連
 date: 2023-10-26
-external_link: https://speakerdeck.com/akrolayer
+external_link: 
 tags:
   - Slide
 ---
